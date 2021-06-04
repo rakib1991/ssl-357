@@ -1,0 +1,199 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: poppins;
+}
+.navbar-brand{
+width: 10%;
+}
+.navbar-brand img{
+    
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    margin: 14px;
+}
+.btn-signin{
+    
+background: #21B573;
+    
+padding: 0%;
+    
+padding: 12px 28px;
+    
+color: #fff;
+    
+border-radius: 40px;
+font-family: Roboto;
+    
+margin: 13px;
+}
+.btn-signin:hover{
+    color:#fff ;
+    background:#133626;
+}
+.header{
+    background: #F0FFF0;
+
+}
+.banner-content h1{
+
+font-weight: 700px;
+
+font-size: 48px;
+
+line-height: 70px;
+
+font-weight: 700;
+font-family: Poppins;
+}
+.banner-content h1 span{
+    color: #21B573;
+    font-family: Poppins;
+
+}
+.banner-content h5{font: poppins;color: background: #FD511A;color: #FD511A;font-size: 16px;line-height: 24px;font-weight: 400;}
+.banner-content p{
+
+}
+.btn-started{
+    padding: 0;
+    padding: 12px 36px;
+    line-height: 19px;
+    background: #21B573;
+    border-radius: 30px;
+    text-transform: capitalize;
+    font-family: Roboto;
+}
+/* font-family: Poppins;  */
+/* font-family: Roboto;  */
+.spacing{
+    padding: 50px 0px;
+}
+.feature{
+   background: #F8FFFB; 
+   text-align: center;
+   padding: 50px 0;
+}
+.feature h2{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+}
+.feature p{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.feature img{
+    width: 30px;
+    margin-bottom: 15px;
+}
+.feature section{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.feature:hover{
+    background-color: #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.course{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgb(0 0 0 / 10%);
+    padding: 20px;
+    border-radius: 18px;
+}
+.course img{
+
+}
+.course h2{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    margin-top: 30px
+    ;
+}
+.course h3{
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.btn-course{
+    align-items: center;
+    background: #21B573;
+    border-radius: 33px;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    color: #ffff;
+}
+.course ul{
+    margin: 0;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.course ul li{
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+.course ul li i{
+
+}
+.heading h1{
+    color: #413960;
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 700;
+    text-align: center;
+
+}
+.client{width: 50%;
+    margin: auto;
+
+}
+.client img{
+    width: 120%;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.client p{
+    font-size: 16px;
+    color: #000;
+}
+footer{
+    background: #282531;
+    color: #fff;
+
+}
+footer p{
+    font-size: 16px;
+    line-height: 30px;
+
+}
+footer ul{
+    list-style: none;
+    font-size: 16x;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li{
+font-weight: 200;
+}
+footer ul li:first-child{
+    font-weight: 600;
+    }
